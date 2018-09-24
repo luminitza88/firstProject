@@ -9,4 +9,7 @@ public class Main {
 
 	}
 
+	public void newMethod() {
+		System.out.println("teste");
+	}
 }
